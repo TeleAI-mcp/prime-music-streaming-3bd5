@@ -1,2 +1,3 @@
-# prime-music-streaming-3bd5
-Automated issue comment bot repository
+# Prime Music Streaming 3Bd5
+
+Automated issue comment bot repository.
